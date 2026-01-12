@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Sean Huvaya 👋
+
+I'm a **Data Engineer** with a solid backend engineering foundation and growing expertise in **machine learning operations (MLOps)**.  
+
+I've worked across international teams on financial platforms and humanitarian programs — optimizing SQL queries, automating data pipelines, refactoring legacy systems, deploying Dockerized apps on AWS, and integrating ML features into real-time workflows.  
+
+Recently completed my **MSc in Artificial Intelligence** from Yeshiva University (Dec 2025), with coursework in Machine Learning, Neural Networks, Data Science, and Cloud Computing.
+
 
 <!--
 **seanhuvaya/seanhuvaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
