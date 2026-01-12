@@ -2,24 +2,17 @@
 
 I'm a **Data Engineer** with a solid backend engineering foundation and growing expertise in **machine learning operations (MLOps)**.  
 
-I've worked across international teams on financial platforms and humanitarian programs — optimizing SQL queries, automating data pipelines, refactoring legacy systems, deploying Dockerized apps on AWS, and integrating ML features into real-time workflows.  
+I've worked across international teams optimizing SQL queries, automating data pipelines, refactoring legacy systems, deploying Dockerized apps on AWS, and integrating ML features into real-time workflows.  
 
 Recently completed my **MSc in Artificial Intelligence** from Yeshiva University (Dec 2025), with coursework in Machine Learning, Neural Networks, Data Science, and Cloud Computing.
 
+🔭 I’m currently working on **real-time data streaming** by exploring the **NYC 311 Service Requests dataset** — one of the largest open civic datasets in the world.
 
-<!--
-**seanhuvaya/seanhuvaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My goal is to build a robust streaming pipeline using **Apache Kafka** to ingest, process, and analyze complaints/requests in near real-time. This project is helping me master event-driven architectures, data ingestion at scale, and fault-tolerant streaming — key skills for production data engineering and MLOps.
 
-Here are some ideas to get you started:
+📫 How to reach me: 
+→ LinkedIn: linkedin.com/in/seanhuvaya  
+→ GitHub: github.com/seanhuvaya  
+→ Personal site: seanhuvaya.dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+Open to collaborations, opportunities in data engineering, streaming, MLOps, or AI infrastructure — let's build something impactful! 🚀
