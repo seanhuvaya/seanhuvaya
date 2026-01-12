@@ -11,6 +11,7 @@ Recently completed my **MSc in Artificial Intelligence** from Yeshiva University
 My goal is to build a robust streaming pipeline using **Apache Kafka** to ingest, process, and analyze complaints/requests in near real-time. This project is helping me master event-driven architectures, data ingestion at scale, and fault-tolerant streaming — key skills for production data engineering and MLOps.
 
 📫 How to reach me: 
+
 → LinkedIn: linkedin.com/in/seanhuvaya  
 → GitHub: github.com/seanhuvaya  
 → Personal site: seanhuvaya.dev
